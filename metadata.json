@@ -1,0 +1,6 @@
+{
+  "name": "心泉居 · 古贤解忧馆 (MindSpring Healing)",
+  "description": "新式中国风情绪疗愈平台，智能匹配中国古代哲学家与先贤大师，通过温暖对话与哲学小故事化解心结、疗愈精神内耗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
